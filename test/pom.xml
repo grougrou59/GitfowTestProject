@@ -5,7 +5,7 @@
   <groupId>test</groupId>
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>test</name>
   <url>http://maven.apache.org</url>
@@ -22,4 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>module1</module>
+  	<module>module2</module>
+  </modules>
 </project>
