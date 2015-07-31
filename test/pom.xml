@@ -3,7 +3,7 @@
 
   <groupId>test</groupId>
   <artifactId>test</artifactId>
-  <version>0.0.7.2</version>
+  <version>0.0.8-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>test</name>
