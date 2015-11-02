@@ -1,7 +1,7 @@
 package test.test;
 
 /**
- * Hello world!*
+ * Hello world!*&&&
  *
  */
 public class App 
